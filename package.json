@@ -1,0 +1,19 @@
+{
+  "name": "smash-character-graphql",
+  "version": "1.0.0",
+  "description": "smash bros ultimate character data graphql server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rmnlly/smash-character-graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rmnlly/smash-character-graphql/issues"
+  },
+  "homepage": "https://github.com/Rmnlly/smash-character-graphql#readme"
+}

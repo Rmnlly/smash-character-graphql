@@ -4,7 +4,8 @@
   "description": "smash bros ultimate character data graphql server",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Rmnlly/smash-character-graphql/issues"
   },
-  "homepage": "https://github.com/Rmnlly/smash-character-graphql#readme"
+  "homepage": "https://github.com/Rmnlly/smash-character-graphql#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.4.2",
+    "node-fetch": "^2.6.0"
+  }
 }
